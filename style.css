@@ -2,6 +2,9 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
+.start-mission {
+  display: flex;
+}
 .flexible-container {
   width: 85%;
   display: flex;
