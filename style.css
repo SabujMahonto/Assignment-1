@@ -59,7 +59,7 @@ body {
 #mission {
   background-color: lightblue;
 }
-#visson {
+#vision {
   background-color: palegreen;
 }
 #goal {
@@ -75,6 +75,9 @@ body {
 .dev-right {
   padding: 40px;
 }
+.dev-right h2 {
+  font-size: 40px;
+}
 .link-button {
   text-decoration: none;
   color: white;
@@ -88,6 +91,9 @@ body {
 }
 .left-item {
   padding: 40px;
+}
+.left-item h2 {
+  font-size: 40px;
 }
 .right-item img {
   width: 400px;
