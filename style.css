@@ -99,7 +99,13 @@ body {
   width: 400px;
   height: 400px;
 }
-
+.our-happy-clients {
+  margin-bottom: 80px;
+}
+.our-happy-clients h1 {
+  text-align: center;
+  font-size: 50px;
+}
 footer {
   background-color: black;
   color: white;
