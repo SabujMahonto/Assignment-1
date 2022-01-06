@@ -45,12 +45,25 @@ body {
   width: 30%;
   margin-left: 4%;
   padding: 40px;
-  background-color: lightblue;
   border-radius: 20px;
 }
 .single-item img {
-  width: 40%;
-  padding-left: 5px;
+  width: 140px;
+  height: 140px;
+}
+.single-item h2 {
+  font-size: 26px;
+  font-weight: 700px;
+  margin: 20px 0;
+}
+#mission {
+  background-color: lightblue;
+}
+#visson {
+  background-color: palegreen;
+}
+#goal {
+  background-color: crimson;
 }
 /* End my-mission-area */
 
